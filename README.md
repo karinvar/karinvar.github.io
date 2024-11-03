@@ -11,6 +11,7 @@ During my M.SC I studied B cell subtypes of Down Syndrome mouse model and their 
 
 ## Fun Fact
 - My favorite pizza topping is pineapple.
+  <img src="[photo.jpg](https://www.jessicagavin.com/wp-content/uploads/2020/07/hawaiian-pizza-16.jpg)" alt="Photo" width="220" height="220">
   
 ## Contact Me
 Feel free to reach out:
