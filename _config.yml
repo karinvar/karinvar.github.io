@@ -1,10 +1,6 @@
 title: "Karin Vardy"
 theme: jekyll-theme-minimal# Configuration
-image:
-  path: "karin.png"  
-  width: 250                   
-  height: 250                   
-
+logo: "karin.png"  
 description: "I'm a PhD student at the Peles Lab, we're interested in biology of myelinating glia cells"
 
 
