@@ -5,7 +5,7 @@
   
 ## Contact Me
 Feel free to reach out:
-- Email: karin.vardy@weizmann.ac.il
+- karin.vardy@weizmann.ac.il
 - [LinkedIn](https://www.linkedin.com/in/karin-vardy-1990b3256)
 
 
