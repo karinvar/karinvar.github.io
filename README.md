@@ -7,6 +7,8 @@ This is a siatic nerve of a mouse
 
 cool, right?
 
+During my M.SC I studied B cell subtypes of Down Syndrome mouse model and their effect on Alzheimer's Disease.
+
 ## Fun Fact
 - My favorite pizza topping is pineapple.
   
