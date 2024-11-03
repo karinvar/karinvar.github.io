@@ -1,4 +1,4 @@
 ## Karin Vardy
-![](downloads/photo.jpg)
+![](main/photo.jpg)
 
 
