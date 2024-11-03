@@ -1,3 +1,3 @@
-## karinvar.github.io
-#Karin Vardy
+#karinvar.github.io
+## Karin Vardy
 Hello, I'm **emphasising text here**
