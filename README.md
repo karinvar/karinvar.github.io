@@ -1,5 +1,5 @@
 ## Personal Web Page
-I'm researching gliomedin in demyelination of PNS mouse models in [Prof. Ori Peles lab] (https://www.weizmann.ac.il/mcb/peles/)
+I'm researching gliomedin in demyelination of PNS mouse models in [Prof. Ori Peles lab](https://www.weizmann.ac.il/mcb/peles/)
 
 This is a siatic nerve of a mouse
 
